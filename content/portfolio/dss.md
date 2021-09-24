@@ -1,12 +1,12 @@
 ---
-title: "Template"
+title: "Data Science Society"
 date: 2021-08-01T12:14:34+06:00
-image: "images/portfolio/item-1.png"
-client: "John Doe"
+image: "images/portfolio/DSS3.4.svg"
+client: "BYU-Idaho Data Science Society"
 # project_url : "https://themefisher.com/"
-categories: ["design","development"]
+categories: ["design"]
 description: "This is meta description."
-draft: true
+draft: false
 ---
 
 #### Project Requirements
