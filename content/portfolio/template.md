@@ -1,12 +1,12 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-3.png"
+title: "Template"
+date: 2021-08-01T12:14:34+06:00
+image: "images/portfolio/item-1.png"
 client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["illustration","development"]
+# project_url : "https://themefisher.com/"
+categories: ["design","development"]
 description: "This is meta description."
-draft: false
+draft: f
 ---
 
 #### Project Requirements

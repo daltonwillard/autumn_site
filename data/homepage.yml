@@ -1,19 +1,19 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m Autumn<br> Graphic designer <br> UI/UX virtuoso"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "I'm a driven digital artist who an eye for form and a mind for function. I've helped small businesses get their graphics off the ground. I've helped multi-million corporations put their websites in order. Whatever your need, I know that I can help you find the design that works for you."
   button:
-    enable : true
+    enable : false
     label : "know more"
     URL : "about"
 
 # skill
 skill:
-  enable : true
+  enable : false
   title : "Skills"
   item:
     - title : "Web Design"
@@ -37,19 +37,19 @@ experience:
   enable : true
   title : "Experience"
   item: 
-    - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+    - logo : "images/experience/icon-3.png"
+      title : "Assistant UI/UX Designer"
+      company : "BYU-Idaho Campus Curriculum Development"
+      duration : "2015 - 2016"
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "Custom Frame Designer"
+      company : "Porter's Craft & Frame"
+      duration : "2017 - 2018"
       
     - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
+      title : "Web/App/Graphic Design"
+      company : "Freelance"
       duration : "Sep 2014 - Present"
 
 # education
@@ -57,25 +57,17 @@ education:
   enable : true
   title : "Education"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
-      
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
-      
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "Bachelor's Degree in Design and Entrepreneurship"
+      year : "2017"
+      academy : "Brigham Young University Idaho"
+
+    - title : "Independant Studies"
+      year : "Ongoing"
+      academy : "Adobe Certified Online Instructors, Articles, Blogs, and Tutorials"
 
 # service
 service:
-  enable : true
+  enable : false
   title : "Services"
   item:
     - title : "UI Design"
@@ -102,7 +94,7 @@ portfolio:
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
@@ -121,41 +113,41 @@ testimonial:
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 # client logo slider
-clients_logo_slider:
-  enable : true
-  item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
+# clients_logo_slider:
+#   enable : false
+#   item:
+#     - logo : "images/clients-logo/client-logo-1.png"
+#       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
+#     - logo : "images/clients-logo/client-logo-2.png"
+#       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
+#     - logo : "images/clients-logo/client-logo-3.png"
+#       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
+#     - logo : "images/clients-logo/client-logo-4.png"
+#       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
+#     - logo : "images/clients-logo/client-logo-5.png"
+#       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
+#     - logo : "images/clients-logo/client-logo-1.png"
+#       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
+#     - logo : "images/clients-logo/client-logo-2.png"
+#       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
+#     - logo : "images/clients-logo/client-logo-3.png"
+#       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
+#     - logo : "images/clients-logo/client-logo-4.png"
+#       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
+#     - logo : "images/clients-logo/client-logo-5.png"
+#       URL : "#"
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Blogs"
   # blog post comes from "content/blog" folder
