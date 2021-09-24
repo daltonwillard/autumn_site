@@ -52,7 +52,7 @@ weight = 3
 # default parameters
 [params]
 home = "Home"
-logo = ""
+# logo = "images/favicon.png"
 # theme color
 # theme_color = "#41228e"
 theme_color = "#e45372"
