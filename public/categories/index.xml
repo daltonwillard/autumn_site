@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Autumn Willard</title>
-    <link>http://autumnwillard.com/categories/</link>
+    <link>https://autumnwillard.com/categories/</link>
     <description>Recent content in Categories on Autumn Willard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 12:14:34 +0600</lastBuildDate><atom:link href="http://autumnwillard.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://autumnwillard.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>design</title>
-      <link>http://autumnwillard.com/categories/design/</link>
+      <link>https://autumnwillard.com/categories/design/</link>
       <pubDate>Sun, 01 Aug 2021 12:14:34 +0600</pubDate>
       
-      <guid>http://autumnwillard.com/categories/design/</guid>
+      <guid>https://autumnwillard.com/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>http://autumnwillard.com/categories/development/</link>
+      <link>https://autumnwillard.com/categories/development/</link>
       <pubDate>Sun, 01 Aug 2021 12:14:34 +0600</pubDate>
       
-      <guid>http://autumnwillard.com/categories/development/</guid>
+      <guid>https://autumnwillard.com/categories/development/</guid>
       <description></description>
     </item>
     
