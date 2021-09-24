@@ -55,7 +55,8 @@ home = "Home"
 # logo = "images/favicon.png"
 # theme color
 # theme_color = "#41228e"
-theme_color = "#e45372"
+# theme_color = "#e45372"
+theme_color = "#11808c"
 # contact info
 phone = "208-243-5857"
 email = "contact@autumnwillard.com"
