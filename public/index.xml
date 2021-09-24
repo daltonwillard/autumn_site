@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autumn Willard</title>
+    <link>http://autumnwillard.com/</link>
+    <description>Recent content on Autumn Willard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 12:14:34 +0600</lastBuildDate><atom:link href="http://autumnwillard.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science Society</title>
+      <link>http://autumnwillard.com/portfolio/dss/</link>
+      <pubDate>Sun, 01 Aug 2021 12:14:34 +0600</pubDate>
+      
+      <guid>http://autumnwillard.com/portfolio/dss/</guid>
+      <description>Project Requirements I had to do something
+Project Details I did it.</description>
+    </item>
+    
+    <item>
+      <title>Schwab Plowing</title>
+      <link>http://autumnwillard.com/portfolio/schwab/</link>
+      <pubDate>Sun, 01 Aug 2021 12:14:34 +0600</pubDate>
+      
+      <guid>http://autumnwillard.com/portfolio/schwab/</guid>
+      <description>Project Requirements I had to do something
+Project Details I did it.</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>http://autumnwillard.com/portfolio/datasciborg/</link>
+      <pubDate>Sun, 01 Aug 2021 12:14:34 +0600</pubDate>
+      
+      <guid>http://autumnwillard.com/portfolio/datasciborg/</guid>
+      <description>Project Requirements I had to do something
+Project Details I did it.</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>http://autumnwillard.com/portfolio/pacific_dane/</link>
+      <pubDate>Sun, 01 Aug 2021 12:14:34 +0600</pubDate>
+      
+      <guid>http://autumnwillard.com/portfolio/pacific_dane/</guid>
+      <description>Project Requirements I had to do something
+Project Details I did it.</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://autumnwillard.com/blog/post-1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://autumnwillard.com/blog/post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
