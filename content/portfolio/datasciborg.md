@@ -1,7 +1,7 @@
 ---
 title: "DataSciborg"
 date: 2021-08-01T12:14:34+06:00
-image: "images/portfolio/DataSciborg.svg"
+image: "images/portfolio/DataSciborg.png"
 client: "DataSciborg"
 # project_url : "https://themefisher.com/"
 categories: ["design","development"]
