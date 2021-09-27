@@ -19,3 +19,5 @@ Use the letters DSS somewhere in the logo, relate it to data science, do not use
 The Data Science Society at BYU-Idaho wanted a new logo. They had pretty firm ideas in mind for what they wanted, which gave me some great guidance as I worked with them. I made several iterations, and requested feedback on each one until we arrived at one that suited them. They were happy enough with the results that they are requesting more graphics for classes within the department.
 
 Made in Adobe Illustrator.
+
+{{< gallery dir="images/galleries/dss" />}}{{< load-photoswipe >}}

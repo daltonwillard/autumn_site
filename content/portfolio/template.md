@@ -17,3 +17,5 @@ I had to do something
 #### Project Details
 
 I did it.
+
+{{< gallery dir="images/galleries/datasciborg" />}}{{< load-photoswipe >}}

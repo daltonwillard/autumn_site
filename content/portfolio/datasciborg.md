@@ -21,4 +21,4 @@ Started by looking over images of graphs, robots, and cyborgs. Went over rough d
 
 Made in Adobe Illustrator.
 
-{{< gallery dir="images" />}}{{< load-photoswipe >}}
+{{< gallery dir="images/galleries/datasciborg" />}}{{< load-photoswipe >}}
