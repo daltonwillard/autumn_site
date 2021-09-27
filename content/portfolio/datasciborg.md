@@ -14,10 +14,11 @@ draft: false
 
 Create custom logo to be used for an educational influencer/tutorials account. Connect data with something robotic that can be animated later. Produce a logo that can fit in a circle and a second logo for banners.
 
-{{< gallery dir="images" />}}{{< load-photoswipe >}}
 
 #### Project Details
 
 Started by looking over images of graphs, robots, and cyborgs. Went over rough drafts of different iterations before settling on a cyborg eye with a chart in it. Made a lot of variations until the client found one he loved. I made the eye to be usable separately or in combination with the text.
 
 Made in Adobe Illustrator.
+
+{{< gallery dir="images" />}}{{< load-photoswipe >}}
