@@ -34,7 +34,7 @@ skill:
 
 # experience
 experience:
-  enable : false
+  enable : true
   title : "Experience"
   item: 
     - logo : "images/experience/icon-3.png"
@@ -54,7 +54,7 @@ experience:
 
 # education
 education:
-  enable : false
+  enable : true
   title : "Education"
   item:
     - title : "Bachelor's Degree in Design and Entrepreneurship"
