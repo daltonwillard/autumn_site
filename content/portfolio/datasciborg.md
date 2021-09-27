@@ -9,10 +9,12 @@ description: "This is meta description."
 draft: false
 ---
 
+
 #### Project Requirements
 
 Create custom logo to be used for an educational influencer/tutorials account. Connect data with something robotic that can be animated later. Produce a logo that can fit in a circle and a second logo for banners.
 
+{{< gallery dir="images" />}}{{< load-photoswipe >}}
 
 #### Project Details
 
